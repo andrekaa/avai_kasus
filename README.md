@@ -1,3 +1,8 @@
+# VIKTIG!
+
+Last ned modellene i repoet til caset her:
+https://drive.google.com/file/d/10RbAnypu4-KA-YGKU8wgf1jO7W6wbnDt/view?usp=sharing
+
 # avai_kasus
 
 Denne oppgaven går ut på å trekke tekst ut av et bilde og så bruke NLP-teknikker på det man får ut. Fork dette repoet til din konto, og fyll ut med en løsning i notebook-en `avai_case.ipynb`. `requirements.txt` peker til pakker som trengs for å utføre oppgaven.
